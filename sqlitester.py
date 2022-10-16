@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+#  
 #    ____   ___  _     _ _____         _            
 #   / ___| / _ \| |   (_)_   _|__  ___| |_ ___ _ __ 
 #   \___ \| | | | |   | | | |/ _ \/ __| __/ _ \ '__|
@@ -16,16 +17,14 @@ from googlesearch import search
 import requests, sys, urllib
 
 print("""
-   
-print("""
+ ____   ___  _     _ _____         _            
+/ ___| / _ \| |   (_)_   _|__  ___| |_ ___ _ __ 
+\___ \| | | | |   | | | |/ _ \/ __| __/ _ \ '__|
+ ___) | |_| | |___| | | |  __/\__ \ ||  __/ |   
+|____/ \__\_\_____|_| |_|\___||___/\__\___|_|   
+SQLiTester - by 0x53 | Twitter: @samueltuxx
+""")
 
-      
-      
-      
-SQLiTester | 4t3nt4d0 Cracker
-      
-
- """)
 
 dork = input("[+] Dork: ")
 print(" ")
