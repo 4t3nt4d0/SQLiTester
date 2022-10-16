@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-#  
 #    ____   ___  _     _ _____         _            
 #   / ___| / _ \| |   (_)_   _|__  ___| |_ ___ _ __ 
 #   \___ \| | | | |   | | | |/ _ \/ __| __/ _ \ '__|
@@ -89,5 +88,4 @@ try:
 except urllib.error.HTTPError:
     print(sys.argv[0] + " - HTTP Error 429 - Too Many Requests | Try again later")
     sys.exit()
-
                                     
