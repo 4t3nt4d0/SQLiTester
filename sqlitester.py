@@ -16,11 +16,7 @@ from googlesearch import search
 import requests, sys, urllib
 
 print("""
-     ___   __             __            __    
-    /   | / /____  ____  / /_____ _____/ /___ 
-   / /| |/ __/ _ \/ __ \/ __/ __ `/ __  / __ \
-  / ___ / /_/  __/ / / / /_/ /_/ / /_/ / /_/ /
- /_/  |_\__/\___/_/ /_/\__/\__,_/\__,_/\____/                                             
+                                       
  
 Foda-se todo mundo | 4t3nt4d0 Cracker
 """)
