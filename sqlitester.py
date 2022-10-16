@@ -16,11 +16,16 @@ from googlesearch import search
 import requests, sys, urllib
 
 print("""
-                                       
- 
-Foda-se todo mundo | 4t3nt4d0 Cracker
-""")
+   
+print("""
 
+      
+      
+      
+SQLiTester | 4t3nt4d0 Cracker
+      
+
+ """)
 
 dork = input("[+] Dork: ")
 print(" ")
@@ -85,3 +90,5 @@ try:
 except urllib.error.HTTPError:
     print(sys.argv[0] + " - HTTP Error 429 - Too Many Requests | Try again later")
     sys.exit()
+
+                                    
