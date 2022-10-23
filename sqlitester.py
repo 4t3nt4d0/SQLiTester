@@ -78,7 +78,8 @@ def check(url):
     if c == 0:
         print(url + "\033[1;31m [NOT VULNERABLE] \033[1;97m ")
         
-try:
+        
+    try:
     for result in search (dork, stop=500):
         output.append(result)
     for url in output:
